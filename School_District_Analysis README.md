@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-The purpose of this project was to take a newer version of the "Student District Analysis" dataset and work with it to find the different deliverables. THe biggest difference between this dataset and the original dataset is that it included a new column for the "School Budget".
+The purpose of this project was to take a newer version of the "Student District Analysis" dataset and work with it to find the different deliverables. The biggest difference between this dataset and the original dataset is that it included a new column for the "School Budget".
 
 ## School District Analysis Discoveries:
 - The first discovery we had involved comparing the budgets of Charter schools vs. Public schools. We can look at the data and see that Public schools had a higher budget average of about $4,000.  We found this by using the "groupby" and "mean" functions in our code.
